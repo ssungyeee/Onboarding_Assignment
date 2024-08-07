@@ -130,7 +130,7 @@ ScriptedImporter:
       y: 326
       width: 31
       height: 22
-    spriteID: 8ac210654d41b304a943bfefa49827dd
+    spriteID: 5f59198bf2b67c942afba51747a29730
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -150,7 +150,7 @@ ScriptedImporter:
       y: 356
       width: 31
       height: 22
-    spriteID: ba143c2c333ff8346b01b5dd6a329c79
+    spriteID: e8648669946de484bb22216297b6520b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -170,7 +170,7 @@ ScriptedImporter:
       y: 386
       width: 31
       height: 22
-    spriteID: 22d5462584eda4f4c917db081a3529a7
+    spriteID: d83b4d2996adfc143bcfcf3d3a2668b9
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -190,7 +190,7 @@ ScriptedImporter:
       y: 416
       width: 31
       height: 22
-    spriteID: bfcb90686a7f58945b2c8ae704be97ff
+    spriteID: 2917e2e6a3dc0f54ab330e636abba86a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -210,7 +210,7 @@ ScriptedImporter:
       y: 436
       width: 32
       height: 22
-    spriteID: 1071488110e89ca4cb8a48d6eb1a6678
+    spriteID: ade93a3f1da316a45b081e8867a51f20
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -230,7 +230,7 @@ ScriptedImporter:
       y: 177
       width: 33
       height: 21
-    spriteID: 370ef270feddf2b4d98b763789958eeb
+    spriteID: e2bc5fafa8b84294c82bded685ecffb0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -250,7 +250,7 @@ ScriptedImporter:
       y: 206
       width: 33
       height: 21
-    spriteID: a7e3fb075a12a3047aa5b368f1505707
+    spriteID: ab184dbc8ca783f4e8c404f3390afcf7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -270,7 +270,7 @@ ScriptedImporter:
       y: 446
       width: 31
       height: 22
-    spriteID: c15b8ee71a2eec24b8610f3344557903
+    spriteID: 9367abf3b0d6859458b2501122d16ba6
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -290,7 +290,7 @@ ScriptedImporter:
       y: 184
       width: 30
       height: 22
-    spriteID: cd3390f7ca530114da83e30a2801bf64
+    spriteID: 548b0bf14da452344806eb36e1813335
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -310,7 +310,7 @@ ScriptedImporter:
       y: 476
       width: 31
       height: 22
-    spriteID: 8500c5c2cb0178d41b53d4deff70b57e
+    spriteID: 2751fbe1ac2c284469a96474b0d3d6bf
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -330,7 +330,7 @@ ScriptedImporter:
       y: 4
       width: 31
       height: 22
-    spriteID: eb5aaf4b40d28af45958ea15779fc603
+    spriteID: 8d99972e1da648749a3399b4f95cd2ec
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -350,7 +350,7 @@ ScriptedImporter:
       y: 34
       width: 31
       height: 22
-    spriteID: 416e2333fe979bb4d92d395a4b588db0
+    spriteID: f89e2e249f8482b49acd8928b5c611ca
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -370,7 +370,7 @@ ScriptedImporter:
       y: 312
       width: 31
       height: 23
-    spriteID: 64fa8969a16e06d468713efe3e4d7951
+    spriteID: 01822337c511279499efd7df5c64f78e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -390,7 +390,7 @@ ScriptedImporter:
       y: 214
       width: 31
       height: 21
-    spriteID: 940c41bbbffa122408518be8ab18b029
+    spriteID: fa0ade899004d884c9c1701c5a3156c9
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -410,7 +410,7 @@ ScriptedImporter:
       y: 274
       width: 25
       height: 30
-    spriteID: 9262f0d3a642a36429d975ebfaea6442
+    spriteID: 6acd929cc44b7034f8f94ad4f74c2534
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -430,7 +430,7 @@ ScriptedImporter:
       y: 50
       width: 38
       height: 29
-    spriteID: e39d64cce19d5fb4a91a66978ff40be1
+    spriteID: bb97dcdb516a1944ba5da85ea20f69fe
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -450,7 +450,7 @@ ScriptedImporter:
       y: 95
       width: 47
       height: 23
-    spriteID: 5bc8d4f68adf53a42814ae78c24f1588
+    spriteID: fec273826a8805140b648f7578a0a815
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -470,7 +470,7 @@ ScriptedImporter:
       y: 155
       width: 45
       height: 20
-    spriteID: 2ff48f8f175fb614c8d0c0596555336b
+    spriteID: a34fbb3f8d9b8f1489f9fa1b550d3d80
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -490,7 +490,7 @@ ScriptedImporter:
       y: 245
       width: 36
       height: 21
-    spriteID: e933927ad629112428e92fd0b9a3b456
+    spriteID: 34eba23eea1409b4da8b8c55280e16b3
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -510,7 +510,7 @@ ScriptedImporter:
       y: 32
       width: 32
       height: 21
-    spriteID: 26768956dbf17a04394c7568ad0a976b
+    spriteID: 20c8ebff1ad91d341ad7395a20e06cd0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -530,7 +530,7 @@ ScriptedImporter:
       y: 64
       width: 31
       height: 22
-    spriteID: 8b866505408a0c745b5ff04f658358d0
+    spriteID: bdc1304484abd634c9238a4d34a478c5
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -550,7 +550,7 @@ ScriptedImporter:
       y: 343
       width: 31
       height: 23
-    spriteID: 7f27bcd1853cc3d48a85c1ace7e3ab29
+    spriteID: d25fb18470f7b3a4f8a5f9a0a879ec25
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -570,7 +570,7 @@ ScriptedImporter:
       y: 264
       width: 30
       height: 23
-    spriteID: fbf2af0135c2182409e8a0d44cb4283f
+    spriteID: 59ca17a2239f21944be9e1a84bdc930c
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -590,7 +590,7 @@ ScriptedImporter:
       y: 295
       width: 30
       height: 23
-    spriteID: 39b2d6202e6e52148b6dee6d75fe49e3
+    spriteID: 2bbc60ec8a4a7d8458d707cfc386dcea
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -610,7 +610,7 @@ ScriptedImporter:
       y: 243
       width: 19
       height: 31
-    spriteID: 739900ca7a1596d4ba3d21daf2b73c3a
+    spriteID: 9f36ad044135e9147b29ca0bd98c1111
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -630,7 +630,7 @@ ScriptedImporter:
       y: 429
       width: 17
       height: 32
-    spriteID: 9379b6b9dddca6d43aaa9c99ab309ed9
+    spriteID: 2358f6f43f69ca94e8859b79abd43abb
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -650,7 +650,7 @@ ScriptedImporter:
       y: 4
       width: 48
       height: 38
-    spriteID: c875b69644a99834bbc38a2050942b4a
+    spriteID: 293fb65a2493aa843bb3dbba24f262f7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -670,7 +670,7 @@ ScriptedImporter:
       y: 4
       width: 53
       height: 25
-    spriteID: 3f38f95683a738a47a72134a837b1730
+    spriteID: caa1e5c97c7ce984cb2cc17e0cc1fbc7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -690,7 +690,7 @@ ScriptedImporter:
       y: 37
       width: 52
       height: 21
-    spriteID: c22cd8e1f697c874688a7350cb6a6854
+    spriteID: 9345384f422fe66468485757d257e9ec
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -710,7 +710,7 @@ ScriptedImporter:
       y: 66
       width: 52
       height: 21
-    spriteID: 3ebab3650614a3749baa4492292016b2
+    spriteID: c04f76611b2536248a2df4149c8d173d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -730,7 +730,7 @@ ScriptedImporter:
       y: 235
       width: 33
       height: 21
-    spriteID: e4b5559b5e87e1e45944a1cde7a9eb66
+    spriteID: 8fc403e70e9941a4c9cf7aeab79dba3a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -750,7 +750,7 @@ ScriptedImporter:
       y: 371
       width: 26
       height: 21
-    spriteID: 1e47cf9455afade419cb33d572082ab5
+    spriteID: 000216de977d3a84da4f54f968392c5b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -770,7 +770,7 @@ ScriptedImporter:
       y: 311
       width: 25
       height: 22
-    spriteID: 859b9dadc2555f240a2e466864339b4d
+    spriteID: 237f1fcb90fbfd34092285f90d94c0a0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -790,7 +790,7 @@ ScriptedImporter:
       y: 282
       width: 27
       height: 21
-    spriteID: a8cb273177ee32b4a82fb597d2c8a6cc
+    spriteID: 45fa883902825014f9aec373fddeb6d5
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -810,7 +810,7 @@ ScriptedImporter:
       y: 400
       width: 26
       height: 21
-    spriteID: 8796658ac2cdad848a599556c684f28e
+    spriteID: 12dbf86d388905c449f7d3c5e31960a3
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -830,7 +830,7 @@ ScriptedImporter:
       y: 469
       width: 24
       height: 21
-    spriteID: 406f0635adaacb144ac5bcbdc6f663a5
+    spriteID: 02af957d92433ad41b1959439fce270b
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -850,7 +850,7 @@ ScriptedImporter:
       y: 126
       width: 44
       height: 21
-    spriteID: 1f5d5a8d4d1fc04409238158a002655b
+    spriteID: 13ef2f9a5d3479f46a084be80af240d0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -870,7 +870,7 @@ ScriptedImporter:
       y: 183
       width: 37
       height: 22
-    spriteID: 698d4e6a0951a1a44b4d376bbd501e1f
+    spriteID: c4f8b267f405c5b4aa8e9ca2dee611b7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -890,7 +890,7 @@ ScriptedImporter:
       y: 213
       width: 33
       height: 24
-    spriteID: 14a66403f7a2f094c8e9c684ae5fdc35
+    spriteID: d6ecc9f5bd5b7ff42a65becb251896b1
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -910,7 +910,7 @@ ScriptedImporter:
       y: 341
       width: 25
       height: 22
-    spriteID: 878194e849f2b8541840d625b38aa92c
+    spriteID: c006bd4cddacc04419e07c9156be28c7
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -930,7 +930,7 @@ ScriptedImporter:
       y: 466
       width: 32
       height: 22
-    spriteID: 058c3e5ce3bba6d4e86c298f55908b03
+    spriteID: 1dce9130eaf22db429ad3bdfc32431b4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -950,7 +950,7 @@ ScriptedImporter:
       y: 87
       width: 32
       height: 22
-    spriteID: f959f9261f96b0a40a61a277da381edd
+    spriteID: e69db0a3905831a4e8d65b178c95daa2
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -970,7 +970,7 @@ ScriptedImporter:
       y: 117
       width: 32
       height: 22
-    spriteID: 7b9e56a142de5ca46a80905db15d113d
+    spriteID: 306f2d81c5564cd4d89b4a752df1a72d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -990,7 +990,7 @@ ScriptedImporter:
       y: 94
       width: 31
       height: 22
-    spriteID: 3b08bbea3101b1d4ab4adfad9e4c9a5e
+    spriteID: f58f8ccd664d67c48a737db7d0d4d2b2
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1010,7 +1010,7 @@ ScriptedImporter:
       y: 4
       width: 34
       height: 20
-    spriteID: 5056feb2251514a44b2a61a34221a72b
+    spriteID: 2ae64cffff2bde047b3173a18f6b01c4
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1030,7 +1030,7 @@ ScriptedImporter:
       y: 4
       width: 39
       height: 16
-    spriteID: 6f7967183ef210747a3f0555d1e2bea2
+    spriteID: c0dd754935e21c040a43f913ca13b4f9
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1050,7 +1050,7 @@ ScriptedImporter:
       y: 28
       width: 39
       height: 16
-    spriteID: 09f4cf35dc713234eab890858d381a97
+    spriteID: f34d3a43779853846a385b5be596dd8d
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1070,7 +1070,7 @@ ScriptedImporter:
       y: 124
       width: 31
       height: 22
-    spriteID: 83663ab2d9377214faf80d6e627c638e
+    spriteID: f8cf89bb99d1716488a85c247fc08c2e
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1090,7 +1090,7 @@ ScriptedImporter:
       y: 374
       width: 31
       height: 23
-    spriteID: 784bbf82ded940440896b750ce3b6e3d
+    spriteID: df9f2baa9a71c8845b987e7983a54058
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1110,7 +1110,7 @@ ScriptedImporter:
       y: 405
       width: 31
       height: 23
-    spriteID: fe140c5edbc3f4e449ad1900ec23c211
+    spriteID: 4ef8879dc93898244876c1ec82788025
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1130,7 +1130,7 @@ ScriptedImporter:
       y: 154
       width: 31
       height: 22
-    spriteID: 84ea0bfa72cb79347a5f119549083df8
+    spriteID: 1132cae078ce5fa439a2f6045c4599ff
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1150,7 +1150,7 @@ ScriptedImporter:
       y: 147
       width: 32
       height: 22
-    spriteID: d4c3b88be2e834d40b89d661ce06794e
+    spriteID: 3acc50c777b4c1f438b33aab0a17d945
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -1175,7 +1175,7 @@ ScriptedImporter:
         y: 40
         width: 31
         height: 22
-      spriteId: 8ac210654d41b304a943bfefa49827dd
+      spriteId: 5f59198bf2b67c942afba51747a29730
     - name: Greatsword Skeleton_Frame_5
       frameIndex: 5
       cellRect:
@@ -1183,7 +1183,7 @@ ScriptedImporter:
         y: 40
         width: 31
         height: 22
-      spriteId: ba143c2c333ff8346b01b5dd6a329c79
+      spriteId: e8648669946de484bb22216297b6520b
     - name: Greatsword Skeleton_Frame_6
       frameIndex: 6
       cellRect:
@@ -1191,7 +1191,7 @@ ScriptedImporter:
         y: 40
         width: 31
         height: 22
-      spriteId: 22d5462584eda4f4c917db081a3529a7
+      spriteId: d83b4d2996adfc143bcfcf3d3a2668b9
     - name: Greatsword Skeleton_Frame_7
       frameIndex: 7
       cellRect:
@@ -1199,7 +1199,7 @@ ScriptedImporter:
         y: 40
         width: 31
         height: 22
-      spriteId: bfcb90686a7f58945b2c8ae704be97ff
+      spriteId: 2917e2e6a3dc0f54ab330e636abba86a
     - name: Greatsword Skeleton_Frame_8
       frameIndex: 8
       cellRect:
@@ -1207,7 +1207,7 @@ ScriptedImporter:
         y: 40
         width: 32
         height: 22
-      spriteId: 1071488110e89ca4cb8a48d6eb1a6678
+      spriteId: ade93a3f1da316a45b081e8867a51f20
     - name: Greatsword Skeleton_Frame_9
       frameIndex: 9
       cellRect:
@@ -1215,7 +1215,7 @@ ScriptedImporter:
         y: 40
         width: 33
         height: 21
-      spriteId: 370ef270feddf2b4d98b763789958eeb
+      spriteId: e2bc5fafa8b84294c82bded685ecffb0
     - name: Greatsword Skeleton_Frame_10
       frameIndex: 10
       cellRect:
@@ -1223,7 +1223,7 @@ ScriptedImporter:
         y: 40
         width: 33
         height: 21
-      spriteId: a7e3fb075a12a3047aa5b368f1505707
+      spriteId: ab184dbc8ca783f4e8c404f3390afcf7
     - name: Greatsword Skeleton_Frame_11
       frameIndex: 11
       cellRect:
@@ -1231,7 +1231,7 @@ ScriptedImporter:
         y: 40
         width: 31
         height: 22
-      spriteId: c15b8ee71a2eec24b8610f3344557903
+      spriteId: 9367abf3b0d6859458b2501122d16ba6
     - name: Greatsword Skeleton_Frame_12
       frameIndex: 12
       cellRect:
@@ -1239,7 +1239,7 @@ ScriptedImporter:
         y: 40
         width: 30
         height: 22
-      spriteId: cd3390f7ca530114da83e30a2801bf64
+      spriteId: 548b0bf14da452344806eb36e1813335
     - name: Greatsword Skeleton_Frame_13
       frameIndex: 13
       cellRect:
@@ -1247,7 +1247,7 @@ ScriptedImporter:
         y: 40
         width: 31
         height: 22
-      spriteId: 8500c5c2cb0178d41b53d4deff70b57e
+      spriteId: 2751fbe1ac2c284469a96474b0d3d6bf
     - name: Greatsword Skeleton_Frame_14
       frameIndex: 14
       cellRect:
@@ -1255,7 +1255,7 @@ ScriptedImporter:
         y: 40
         width: 31
         height: 22
-      spriteId: eb5aaf4b40d28af45958ea15779fc603
+      spriteId: 8d99972e1da648749a3399b4f95cd2ec
     - name: Greatsword Skeleton_Frame_15
       frameIndex: 15
       cellRect:
@@ -1263,7 +1263,7 @@ ScriptedImporter:
         y: 40
         width: 31
         height: 22
-      spriteId: 416e2333fe979bb4d92d395a4b588db0
+      spriteId: f89e2e249f8482b49acd8928b5c611ca
     - name: Greatsword Skeleton_Frame_16
       frameIndex: 16
       cellRect:
@@ -1271,7 +1271,7 @@ ScriptedImporter:
         y: 40
         width: 31
         height: 23
-      spriteId: 64fa8969a16e06d468713efe3e4d7951
+      spriteId: 01822337c511279499efd7df5c64f78e
     - name: Greatsword Skeleton_Frame_17
       frameIndex: 17
       cellRect:
@@ -1279,7 +1279,7 @@ ScriptedImporter:
         y: 40
         width: 31
         height: 21
-      spriteId: 940c41bbbffa122408518be8ab18b029
+      spriteId: fa0ade899004d884c9c1701c5a3156c9
     - name: Greatsword Skeleton_Frame_18
       frameIndex: 18
       cellRect:
@@ -1287,7 +1287,7 @@ ScriptedImporter:
         y: 31
         width: 25
         height: 30
-      spriteId: 9262f0d3a642a36429d975ebfaea6442
+      spriteId: 6acd929cc44b7034f8f94ad4f74c2534
     - name: Greatsword Skeleton_Frame_19
       frameIndex: 19
       cellRect:
@@ -1295,7 +1295,7 @@ ScriptedImporter:
         y: 31
         width: 38
         height: 29
-      spriteId: e39d64cce19d5fb4a91a66978ff40be1
+      spriteId: bb97dcdb516a1944ba5da85ea20f69fe
     - name: Greatsword Skeleton_Frame_20
       frameIndex: 20
       cellRect:
@@ -1303,7 +1303,7 @@ ScriptedImporter:
         y: 37
         width: 47
         height: 23
-      spriteId: 5bc8d4f68adf53a42814ae78c24f1588
+      spriteId: fec273826a8805140b648f7578a0a815
     - name: Greatsword Skeleton_Frame_21
       frameIndex: 21
       cellRect:
@@ -1311,7 +1311,7 @@ ScriptedImporter:
         y: 40
         width: 45
         height: 20
-      spriteId: 2ff48f8f175fb614c8d0c0596555336b
+      spriteId: a34fbb3f8d9b8f1489f9fa1b550d3d80
     - name: Greatsword Skeleton_Frame_22
       frameIndex: 22
       cellRect:
@@ -1319,7 +1319,7 @@ ScriptedImporter:
         y: 40
         width: 36
         height: 21
-      spriteId: e933927ad629112428e92fd0b9a3b456
+      spriteId: 34eba23eea1409b4da8b8c55280e16b3
     - name: Greatsword Skeleton_Frame_23
       frameIndex: 23
       cellRect:
@@ -1327,7 +1327,7 @@ ScriptedImporter:
         y: 40
         width: 32
         height: 21
-      spriteId: 26768956dbf17a04394c7568ad0a976b
+      spriteId: 20c8ebff1ad91d341ad7395a20e06cd0
     - name: Greatsword Skeleton_Frame_24
       frameIndex: 24
       cellRect:
@@ -1335,7 +1335,7 @@ ScriptedImporter:
         y: 40
         width: 31
         height: 22
-      spriteId: 8b866505408a0c745b5ff04f658358d0
+      spriteId: bdc1304484abd634c9238a4d34a478c5
     - name: Greatsword Skeleton_Frame_25
       frameIndex: 25
       cellRect:
@@ -1343,7 +1343,7 @@ ScriptedImporter:
         y: 40
         width: 31
         height: 23
-      spriteId: 7f27bcd1853cc3d48a85c1ace7e3ab29
+      spriteId: d25fb18470f7b3a4f8a5f9a0a879ec25
     - name: Greatsword Skeleton_Frame_26
       frameIndex: 26
       cellRect:
@@ -1351,7 +1351,7 @@ ScriptedImporter:
         y: 40
         width: 30
         height: 23
-      spriteId: fbf2af0135c2182409e8a0d44cb4283f
+      spriteId: 59ca17a2239f21944be9e1a84bdc930c
     - name: Greatsword Skeleton_Frame_27
       frameIndex: 27
       cellRect:
@@ -1359,7 +1359,7 @@ ScriptedImporter:
         y: 40
         width: 30
         height: 23
-      spriteId: 39b2d6202e6e52148b6dee6d75fe49e3
+      spriteId: 2bbc60ec8a4a7d8458d707cfc386dcea
     - name: Greatsword Skeleton_Frame_28
       frameIndex: 28
       cellRect:
@@ -1367,7 +1367,7 @@ ScriptedImporter:
         y: 40
         width: 19
         height: 31
-      spriteId: 739900ca7a1596d4ba3d21daf2b73c3a
+      spriteId: 9f36ad044135e9147b29ca0bd98c1111
     - name: Greatsword Skeleton_Frame_29
       frameIndex: 29
       cellRect:
@@ -1375,7 +1375,7 @@ ScriptedImporter:
         y: 40
         width: 17
         height: 32
-      spriteId: 9379b6b9dddca6d43aaa9c99ab309ed9
+      spriteId: 2358f6f43f69ca94e8859b79abd43abb
     - name: Greatsword Skeleton_Frame_30
       frameIndex: 30
       cellRect:
@@ -1383,7 +1383,7 @@ ScriptedImporter:
         y: 40
         width: 48
         height: 38
-      spriteId: c875b69644a99834bbc38a2050942b4a
+      spriteId: 293fb65a2493aa843bb3dbba24f262f7
     - name: Greatsword Skeleton_Frame_31
       frameIndex: 31
       cellRect:
@@ -1391,7 +1391,7 @@ ScriptedImporter:
         y: 40
         width: 53
         height: 25
-      spriteId: 3f38f95683a738a47a72134a837b1730
+      spriteId: caa1e5c97c7ce984cb2cc17e0cc1fbc7
     - name: Greatsword Skeleton_Frame_32
       frameIndex: 32
       cellRect:
@@ -1399,7 +1399,7 @@ ScriptedImporter:
         y: 40
         width: 52
         height: 21
-      spriteId: c22cd8e1f697c874688a7350cb6a6854
+      spriteId: 9345384f422fe66468485757d257e9ec
     - name: Greatsword Skeleton_Frame_33
       frameIndex: 33
       cellRect:
@@ -1407,7 +1407,7 @@ ScriptedImporter:
         y: 40
         width: 52
         height: 21
-      spriteId: 3ebab3650614a3749baa4492292016b2
+      spriteId: c04f76611b2536248a2df4149c8d173d
     - name: Greatsword Skeleton_Frame_34
       frameIndex: 34
       cellRect:
@@ -1415,7 +1415,7 @@ ScriptedImporter:
         y: 40
         width: 33
         height: 21
-      spriteId: e4b5559b5e87e1e45944a1cde7a9eb66
+      spriteId: 8fc403e70e9941a4c9cf7aeab79dba3a
     - name: Greatsword Skeleton_Frame_35
       frameIndex: 35
       cellRect:
@@ -1423,7 +1423,7 @@ ScriptedImporter:
         y: 40
         width: 26
         height: 21
-      spriteId: 1e47cf9455afade419cb33d572082ab5
+      spriteId: 000216de977d3a84da4f54f968392c5b
     - name: Greatsword Skeleton_Frame_36
       frameIndex: 36
       cellRect:
@@ -1431,7 +1431,7 @@ ScriptedImporter:
         y: 40
         width: 25
         height: 22
-      spriteId: 859b9dadc2555f240a2e466864339b4d
+      spriteId: 237f1fcb90fbfd34092285f90d94c0a0
     - name: Greatsword Skeleton_Frame_37
       frameIndex: 37
       cellRect:
@@ -1439,7 +1439,7 @@ ScriptedImporter:
         y: 40
         width: 27
         height: 21
-      spriteId: a8cb273177ee32b4a82fb597d2c8a6cc
+      spriteId: 45fa883902825014f9aec373fddeb6d5
     - name: Greatsword Skeleton_Frame_38
       frameIndex: 38
       cellRect:
@@ -1447,7 +1447,7 @@ ScriptedImporter:
         y: 40
         width: 26
         height: 21
-      spriteId: 8796658ac2cdad848a599556c684f28e
+      spriteId: 12dbf86d388905c449f7d3c5e31960a3
     - name: Greatsword Skeleton_Frame_39
       frameIndex: 39
       cellRect:
@@ -1455,7 +1455,7 @@ ScriptedImporter:
         y: 40
         width: 24
         height: 21
-      spriteId: 406f0635adaacb144ac5bcbdc6f663a5
+      spriteId: 02af957d92433ad41b1959439fce270b
     - name: Greatsword Skeleton_Frame_40
       frameIndex: 40
       cellRect:
@@ -1463,7 +1463,7 @@ ScriptedImporter:
         y: 40
         width: 44
         height: 21
-      spriteId: 1f5d5a8d4d1fc04409238158a002655b
+      spriteId: 13ef2f9a5d3479f46a084be80af240d0
     - name: Greatsword Skeleton_Frame_41
       frameIndex: 41
       cellRect:
@@ -1471,7 +1471,7 @@ ScriptedImporter:
         y: 39
         width: 37
         height: 22
-      spriteId: 698d4e6a0951a1a44b4d376bbd501e1f
+      spriteId: c4f8b267f405c5b4aa8e9ca2dee611b7
     - name: Greatsword Skeleton_Frame_42
       frameIndex: 42
       cellRect:
@@ -1479,7 +1479,7 @@ ScriptedImporter:
         y: 37
         width: 33
         height: 24
-      spriteId: 14a66403f7a2f094c8e9c684ae5fdc35
+      spriteId: d6ecc9f5bd5b7ff42a65becb251896b1
     - name: Greatsword Skeleton_Frame_43
       frameIndex: 43
       cellRect:
@@ -1487,7 +1487,7 @@ ScriptedImporter:
         y: 40
         width: 25
         height: 22
-      spriteId: 878194e849f2b8541840d625b38aa92c
+      spriteId: c006bd4cddacc04419e07c9156be28c7
     - name: Greatsword Skeleton_Frame_44
       frameIndex: 44
       cellRect:
@@ -1495,7 +1495,7 @@ ScriptedImporter:
         y: 40
         width: 32
         height: 22
-      spriteId: 058c3e5ce3bba6d4e86c298f55908b03
+      spriteId: 1dce9130eaf22db429ad3bdfc32431b4
     - name: Greatsword Skeleton_Frame_46
       frameIndex: 46
       cellRect:
@@ -1503,7 +1503,7 @@ ScriptedImporter:
         y: 40
         width: 32
         height: 22
-      spriteId: f959f9261f96b0a40a61a277da381edd
+      spriteId: e69db0a3905831a4e8d65b178c95daa2
     - name: Greatsword Skeleton_Frame_47
       frameIndex: 47
       cellRect:
@@ -1511,7 +1511,7 @@ ScriptedImporter:
         y: 40
         width: 32
         height: 22
-      spriteId: 7b9e56a142de5ca46a80905db15d113d
+      spriteId: 306f2d81c5564cd4d89b4a752df1a72d
     - name: Greatsword Skeleton_Frame_48
       frameIndex: 48
       cellRect:
@@ -1519,7 +1519,7 @@ ScriptedImporter:
         y: 40
         width: 31
         height: 22
-      spriteId: 3b08bbea3101b1d4ab4adfad9e4c9a5e
+      spriteId: f58f8ccd664d67c48a737db7d0d4d2b2
     - name: Greatsword Skeleton_Frame_49
       frameIndex: 49
       cellRect:
@@ -1527,7 +1527,7 @@ ScriptedImporter:
         y: 40
         width: 34
         height: 20
-      spriteId: 5056feb2251514a44b2a61a34221a72b
+      spriteId: 2ae64cffff2bde047b3173a18f6b01c4
     - name: Greatsword Skeleton_Frame_50
       frameIndex: 50
       cellRect:
@@ -1535,7 +1535,7 @@ ScriptedImporter:
         y: 40
         width: 39
         height: 16
-      spriteId: 6f7967183ef210747a3f0555d1e2bea2
+      spriteId: c0dd754935e21c040a43f913ca13b4f9
     - name: Greatsword Skeleton_Frame_51
       frameIndex: 51
       cellRect:
@@ -1543,7 +1543,7 @@ ScriptedImporter:
         y: 40
         width: 39
         height: 16
-      spriteId: 09f4cf35dc713234eab890858d381a97
+      spriteId: f34d3a43779853846a385b5be596dd8d
     - name: Greatsword Skeleton_Frame_1
       frameIndex: 1
       cellRect:
@@ -1551,7 +1551,7 @@ ScriptedImporter:
         y: 40
         width: 31
         height: 22
-      spriteId: 83663ab2d9377214faf80d6e627c638e
+      spriteId: f8cf89bb99d1716488a85c247fc08c2e
     - name: Greatsword Skeleton_Frame_2
       frameIndex: 2
       cellRect:
@@ -1559,7 +1559,7 @@ ScriptedImporter:
         y: 40
         width: 31
         height: 23
-      spriteId: 784bbf82ded940440896b750ce3b6e3d
+      spriteId: df9f2baa9a71c8845b987e7983a54058
     - name: Greatsword Skeleton_Frame_3
       frameIndex: 3
       cellRect:
@@ -1567,7 +1567,7 @@ ScriptedImporter:
         y: 40
         width: 31
         height: 23
-      spriteId: fe140c5edbc3f4e449ad1900ec23c211
+      spriteId: 4ef8879dc93898244876c1ec82788025
     - name: Greatsword Skeleton_Frame_4
       frameIndex: 4
       cellRect:
@@ -1575,7 +1575,7 @@ ScriptedImporter:
         y: 40
         width: 31
         height: 22
-      spriteId: 84ea0bfa72cb79347a5f119549083df8
+      spriteId: 1132cae078ce5fa439a2f6045c4599ff
     - name: Greatsword Skeleton_Frame_45
       frameIndex: 45
       cellRect:
@@ -1583,7 +1583,7 @@ ScriptedImporter:
         y: 40
         width: 32
         height: 22
-      spriteId: d4c3b88be2e834d40b89d661ce06794e
+      spriteId: 3acc50c777b4c1f438b33aab0a17d945
     linkedCells: []
     parentIndex: -1
   platformSettings: []
