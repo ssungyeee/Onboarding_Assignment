@@ -1,0 +1,1732 @@
+fileFormatVersion: 2
+guid: e7679c239f3e7ed4fbaec908c5a913c9
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Swordsman_Frame_0
+    originalName: 
+    pivot: {x: 0.33333337, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 4
+      width: 24
+      height: 21
+    spriteID: 156d19251b4da7747a7473d31c1126e6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 4}
+  - name: Swordsman_Frame_1
+    originalName: 
+    pivot: {x: 0.33333337, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 33
+      width: 24
+      height: 21
+    spriteID: 8fe58650ae310dc4aa7fb950e21ccebe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 33}
+  - name: Swordsman_Frame_2
+    originalName: 
+    pivot: {x: 0.33333337, y: -1.9523809}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 62
+      width: 24
+      height: 21
+    spriteID: ce2a639b0e675cf47a13c1151ce0036d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 62}
+  - name: Swordsman_Frame_3
+    originalName: 
+    pivot: {x: 0.33333337, y: -1.9523809}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 91
+      width: 24
+      height: 21
+    spriteID: bde6ef609b97eac40bd94e5d671b7079
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 91}
+  - name: Swordsman_Frame_4
+    originalName: 
+    pivot: {x: 0.33333337, y: -2.05}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 410
+      width: 24
+      height: 20
+    spriteID: 509aab699a41da148a82751bd27e4866
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 410}
+  - name: Swordsman_Frame_5
+    originalName: 
+    pivot: {x: 0.33333337, y: -2.05}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 438
+      width: 24
+      height: 20
+    spriteID: f5dfbe17a2fdd4340a78daa028044fa9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 438}
+  - name: Swordsman_Frame_6
+    originalName: 
+    pivot: {x: 0.33333337, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 120
+      width: 24
+      height: 21
+    spriteID: 774245bc29c1ffa48b3a9ba1af0712a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 120}
+  - name: Swordsman_Frame_7
+    originalName: 
+    pivot: {x: 0.33333337, y: -1.9523809}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 149
+      width: 24
+      height: 21
+    spriteID: cc10d9d367378ac4eaddd298174480ee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 149}
+  - name: Swordsman_Frame_8
+    originalName: 
+    pivot: {x: 0.33333337, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 178
+      width: 24
+      height: 21
+    spriteID: 1b32260d6cf5a034e967be6268b58890
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 178}
+  - name: Swordsman_Frame_9
+    originalName: 
+    pivot: {x: 0.33333337, y: -1.8571428}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 207
+      width: 24
+      height: 21
+    spriteID: ab66d8e7a112f014a8a9f1837403b50f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 207}
+  - name: Swordsman_Frame_10
+    originalName: 
+    pivot: {x: 0.33333337, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 236
+      width: 24
+      height: 21
+    spriteID: 619a4694eba70d8468004fa842b67ac1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 236}
+  - name: Swordsman_Frame_11
+    originalName: 
+    pivot: {x: 0.33333337, y: -2.1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 466
+      width: 24
+      height: 20
+    spriteID: 42ea601069cd8cf49b9305f4047960a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 466}
+  - name: Swordsman_Frame_12
+    originalName: 
+    pivot: {x: 0.33333337, y: -2.05}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 4
+      width: 24
+      height: 20
+    spriteID: ef6da66b1dcbe5e409adf01730b816d0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 4}
+  - name: Swordsman_Frame_13
+    originalName: 
+    pivot: {x: 0.33333337, y: -1.8571428}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 265
+      width: 24
+      height: 21
+    spriteID: 5f3750fb263c7094bbb00948447211ab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 265}
+  - name: Swordsman_Frame_14
+    originalName: 
+    pivot: {x: 0.33333337, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 294
+      width: 24
+      height: 21
+    spriteID: 71e7eeda165c9974ab4e3aecfded9cef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 294}
+  - name: Swordsman_Frame_15
+    originalName: 
+    pivot: {x: 0.38095245, y: -2.2631578}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 161
+      width: 21
+      height: 19
+    spriteID: c9d82fd40ce3c9542938e3dd43da56cf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 161}
+  - name: Swordsman_Frame_16
+    originalName: 
+    pivot: {x: 0.36363643, y: -2.2631578}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 134
+      width: 22
+      height: 19
+    spriteID: 6f72bc67b3f3af846b18a97acd75a78c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 134}
+  - name: Swordsman_Frame_17
+    originalName: 
+    pivot: {x: 0.24999999, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 231
+      width: 40
+      height: 20
+    spriteID: c57ac2bccdcf0204dba9c96120ea36d8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 231}
+  - name: Swordsman_Frame_18
+    originalName: 
+    pivot: {x: 0.24999999, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 259
+      width: 40
+      height: 20
+    spriteID: 89296708826b6614aa0e37e8937e8fb7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 259}
+  - name: Swordsman_Frame_19
+    originalName: 
+    pivot: {x: 0.5555555, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 344
+      width: 18
+      height: 20
+    spriteID: f7755abf90dc81844953e2ae41e5a374
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 344}
+  - name: Swordsman_Frame_20
+    originalName: 
+    pivot: {x: 0.29166663, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 32
+      width: 24
+      height: 20
+    spriteID: 18bce4049599e6640ab2abaad70b863d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 32}
+  - name: Swordsman_Frame_21
+    originalName: 
+    pivot: {x: 0.33333337, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 323
+      width: 24
+      height: 21
+    spriteID: 81ff1d0d8a0bb954d96d38b847de6673
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 323}
+  - name: Swordsman_Frame_22
+    originalName: 
+    pivot: {x: 0.61111116, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 372
+      width: 18
+      height: 20
+    spriteID: 4a52c0f3053bb97498f66df7c35213d5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 372}
+  - name: Swordsman_Frame_23
+    originalName: 
+    pivot: {x: 0.5625, y: -1.8571428}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 428
+      width: 16
+      height: 21
+    spriteID: 4c716b36546844747ad21184d3f7a084
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 428}
+  - name: Swordsman_Frame_24
+    originalName: 
+    pivot: {x: 0.17777781, y: -1.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 40
+      width: 45
+      height: 30
+    spriteID: 8de492fd1f878c5449e1d73464ba31de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 40}
+  - name: Swordsman_Frame_25
+    originalName: 
+    pivot: {x: 0.18181822, y: -1.4642857}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 78
+      width: 44
+      height: 28
+    spriteID: 12e65d775eb552b489976025c261ba7c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 78}
+  - name: Swordsman_Frame_26
+    originalName: 
+    pivot: {x: 0.28571433, y: -2.2631578}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 463
+      width: 28
+      height: 19
+    spriteID: 0bb5b564611b7134aae4162363e726f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 463}
+  - name: Swordsman_Frame_27
+    originalName: 
+    pivot: {x: 0.20408162, y: -1.7272726}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 144
+      width: 49
+      height: 22
+    spriteID: dd645ed1c1a2a1949a91ffbbe6ae1769
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 144}
+  - name: Swordsman_Frame_28
+    originalName: 
+    pivot: {x: 0.20408162, y: -1.8571428}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 174
+      width: 49
+      height: 21
+    spriteID: 9d28031b95f28174599d49178662a53b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 174}
+  - name: Swordsman_Frame_29
+    originalName: 
+    pivot: {x: 0.19999999, y: -1.7272726}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 114
+      width: 50
+      height: 22
+    spriteID: 198def84fae18024582d55d4f4c2ce7f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 114}
+  - name: Swordsman_Frame_30
+    originalName: 
+    pivot: {x: 0.5555555, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 400
+      width: 18
+      height: 20
+    spriteID: 357e97e6d7ac25547a625337f9e8234d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 400}
+  - name: Swordsman_Frame_31
+    originalName: 
+    pivot: {x: 0.42857143, y: -2.3888888}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 188
+      width: 21
+      height: 18
+    spriteID: dd75f2450049f9a47829afaa81c321ae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 188}
+  - name: Swordsman_Frame_32
+    originalName: 
+    pivot: {x: 0.42857143, y: -2.3888888}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 214
+      width: 21
+      height: 18
+    spriteID: ae5a5d11e27cc434a8ee519c3cb10640
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 214}
+  - name: Swordsman_Frame_33
+    originalName: 
+    pivot: {x: 0.15094341, y: -1.3571428}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 53
+      height: 28
+    spriteID: 810a2e3ecdeed1d44ad4cc8e7ac047b5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Swordsman_Frame_34
+    originalName: 
+    pivot: {x: 0.16666669, y: -2.05}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 203
+      width: 48
+      height: 20
+    spriteID: e0d7d55b777f7474db5eb463e33dbaf6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 203}
+  - name: Swordsman_Frame_35
+    originalName: 
+    pivot: {x: 0.2666667, y: -2.5294118}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 490
+      width: 30
+      height: 17
+    spriteID: dd6c0fda4362f6c47b29baff3f11e816
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 490}
+  - name: Swordsman_Frame_36
+    originalName: 
+    pivot: {x: 0.33333337, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 352
+      width: 24
+      height: 21
+    spriteID: 355cc03fc8f487044bbc6b613ba6477d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 352}
+  - name: Swordsman_Frame_37
+    originalName: 
+    pivot: {x: 0.42857143, y: -2.3888888}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 240
+      width: 21
+      height: 18
+    spriteID: d89691c4788da9046a213554028c1f6f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 240}
+  - name: Swordsman_Frame_38
+    originalName: 
+    pivot: {x: 0.42857143, y: -2.3888888}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 266
+      width: 21
+      height: 18
+    spriteID: a5375240c7008c54fbb32542e11143a5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 266}
+  - name: Swordsman_Frame_39
+    originalName: 
+    pivot: {x: 0.42857143, y: -2.3888888}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 292
+      width: 21
+      height: 18
+    spriteID: d8215ad329628ea4181d7c0076b1c971
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 292}
+  - name: Swordsman_Frame_40
+    originalName: 
+    pivot: {x: 0.42857143, y: -2.3888888}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 318
+      width: 21
+      height: 18
+    spriteID: 5f61bfa0408aaf945aaef55794bdb4a9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 318}
+  - name: Swordsman_Frame_41
+    originalName: 
+    pivot: {x: 0.21621625, y: -2.5294118}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 413
+      width: 37
+      height: 17
+    spriteID: e443b02a36516f743908b07e1537601a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 413}
+  - name: Swordsman_Frame_42
+    originalName: 
+    pivot: {x: 0.19444442, y: -2.5294118}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 438
+      width: 36
+      height: 17
+    spriteID: d4c1915d8fe20464dab19d0988628f1b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 438}
+  - name: Swordsman_Frame_43
+    originalName: 
+    pivot: {x: 0.18181822, y: -2.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 312
+      width: 44
+      height: 18
+    spriteID: eead300b90fdede49b9b434408639fa2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 312}
+  - name: Swordsman_Frame_44
+    originalName: 
+    pivot: {x: 0.14893615, y: -2.5294118}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 287
+      width: 47
+      height: 17
+    spriteID: 4ef114f76cb74fa46b16672773e88564
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 287}
+  - name: Swordsman_Frame_45
+    originalName: 
+    pivot: {x: 0.19047622, y: -2.5294118}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 363
+      width: 42
+      height: 17
+    spriteID: d86aed815466f6d49bdc5ba387547946
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 363}
+  - name: Swordsman_Frame_46
+    originalName: 
+    pivot: {x: 0.15909089, y: -2.5294118}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 338
+      width: 44
+      height: 17
+    spriteID: c871d4734d1546643865bd20990b7569
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 338}
+  - name: Swordsman_Frame_47
+    originalName: 
+    pivot: {x: 0.20000003, y: -2.5294118}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 388
+      width: 40
+      height: 17
+    spriteID: 857557df1d58ebc4fb6e1a0dcf69f8ee
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 388}
+  - name: Swordsman_Frame_48
+    originalName: 
+    pivot: {x: 0.34615386, y: -2.3888888}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 4
+      width: 26
+      height: 18
+    spriteID: da96bb5d995210c4a85470951308ab69
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 4}
+  - name: Swordsman_Frame_49
+    originalName: 
+    pivot: {x: 0.34615386, y: -2.3888888}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 30
+      width: 26
+      height: 18
+    spriteID: 7c9c61ca50fe13d46812633184730c7b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 30}
+  - name: Swordsman_Frame_50
+    originalName: 
+    pivot: {x: 0.34615386, y: -2.3888888}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 56
+      width: 26
+      height: 18
+    spriteID: c8f526f04b4351646b4df01c918097ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 56}
+  - name: Swordsman_Frame_51
+    originalName: 
+    pivot: {x: 0.34615386, y: -2.3888888}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 82
+      width: 26
+      height: 18
+    spriteID: 83af195780c58f540af123be59ed65c3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 82}
+  - name: Swordsman_Frame_52
+    originalName: 
+    pivot: {x: 0.34615386, y: -2.3888888}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 108
+      width: 26
+      height: 18
+    spriteID: 592ebcfda7a69ee4eb86e5cb4fbd259f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 108}
+  - name: Swordsman_Frame_53
+    originalName: 
+    pivot: {x: 0.33333337, y: -1.9047619}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 381
+      width: 24
+      height: 21
+    spriteID: 44327a9fa99915548b0419ea33d21618
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 381}
+  - name: Swordsman_Frame_54
+    originalName: 
+    pivot: {x: 0.29629633, y: -2.6875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 163
+      y: 4
+      width: 27
+      height: 16
+    spriteID: daefbe13fadb9ae41baeb1c4bf96d386
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 163, y: 4}
+  - name: Swordsman_Frame_55
+    originalName: 
+    pivot: {x: 0.14814812, y: -3.0714285}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 163
+      y: 28
+      width: 27
+      height: 14
+    spriteID: b5e528758fa7dc34a9f16fe17015f4c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 163, y: 28}
+  - name: Swordsman_Frame_56
+    originalName: 
+    pivot: {x: 0.0333333, y: -4.3}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 198
+      y: 4
+      width: 30
+      height: 10
+    spriteID: 998f88585d7d5cd4f84e17306460426d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 198, y: 4}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1341245320
+    name: Swordsman
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Swordsman_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 42
+        y: 40
+        width: 24
+        height: 21
+      spriteId: 156d19251b4da7747a7473d31c1126e6
+    - name: Swordsman_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 42
+        y: 40
+        width: 24
+        height: 21
+      spriteId: 8fe58650ae310dc4aa7fb950e21ccebe
+    - name: Swordsman_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 42
+        y: 41
+        width: 24
+        height: 21
+      spriteId: ce2a639b0e675cf47a13c1151ce0036d
+    - name: Swordsman_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 42
+        y: 41
+        width: 24
+        height: 21
+      spriteId: bde6ef609b97eac40bd94e5d671b7079
+    - name: Swordsman_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 42
+        y: 41
+        width: 24
+        height: 20
+      spriteId: 509aab699a41da148a82751bd27e4866
+    - name: Swordsman_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 42
+        y: 41
+        width: 24
+        height: 20
+      spriteId: f5dfbe17a2fdd4340a78daa028044fa9
+    - name: Swordsman_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 42
+        y: 40
+        width: 24
+        height: 21
+      spriteId: 774245bc29c1ffa48b3a9ba1af0712a3
+    - name: Swordsman_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 42
+        y: 41
+        width: 24
+        height: 21
+      spriteId: cc10d9d367378ac4eaddd298174480ee
+    - name: Swordsman_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 42
+        y: 40
+        width: 24
+        height: 21
+      spriteId: 1b32260d6cf5a034e967be6268b58890
+    - name: Swordsman_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 42
+        y: 39
+        width: 24
+        height: 21
+      spriteId: ab66d8e7a112f014a8a9f1837403b50f
+    - name: Swordsman_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 42
+        y: 40
+        width: 24
+        height: 21
+      spriteId: 619a4694eba70d8468004fa842b67ac1
+    - name: Swordsman_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 42
+        y: 42
+        width: 24
+        height: 20
+      spriteId: 42ea601069cd8cf49b9305f4047960a3
+    - name: Swordsman_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 42
+        y: 41
+        width: 24
+        height: 20
+      spriteId: ef6da66b1dcbe5e409adf01730b816d0
+    - name: Swordsman_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 42
+        y: 39
+        width: 24
+        height: 21
+      spriteId: 5f3750fb263c7094bbb00948447211ab
+    - name: Swordsman_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 42
+        y: 40
+        width: 24
+        height: 21
+      spriteId: 71e7eeda165c9974ab4e3aecfded9cef
+    - name: Swordsman_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 42
+        y: 43
+        width: 21
+        height: 19
+      spriteId: c9d82fd40ce3c9542938e3dd43da56cf
+    - name: Swordsman_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 42
+        y: 43
+        width: 22
+        height: 19
+      spriteId: 6f72bc67b3f3af846b18a97acd75a78c
+    - name: Swordsman_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 40
+        y: 40
+        width: 40
+        height: 20
+      spriteId: c57ac2bccdcf0204dba9c96120ea36d8
+    - name: Swordsman_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 40
+        y: 40
+        width: 40
+        height: 20
+      spriteId: 89296708826b6614aa0e37e8937e8fb7
+    - name: Swordsman_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 40
+        y: 40
+        width: 18
+        height: 20
+      spriteId: f7755abf90dc81844953e2ae41e5a374
+    - name: Swordsman_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 43
+        y: 40
+        width: 24
+        height: 20
+      spriteId: 18bce4049599e6640ab2abaad70b863d
+    - name: Swordsman_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 42
+        y: 40
+        width: 24
+        height: 21
+      spriteId: 81ff1d0d8a0bb954d96d38b847de6673
+    - name: Swordsman_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 39
+        y: 40
+        width: 18
+        height: 20
+      spriteId: 4a52c0f3053bb97498f66df7c35213d5
+    - name: Swordsman_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 41
+        y: 39
+        width: 16
+        height: 21
+      spriteId: 4c716b36546844747ad21184d3f7a084
+    - name: Swordsman_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 42
+        y: 39
+        width: 45
+        height: 30
+      spriteId: 8de492fd1f878c5449e1d73464ba31de
+    - name: Swordsman_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 42
+        y: 41
+        width: 44
+        height: 28
+      spriteId: 12e65d775eb552b489976025c261ba7c
+    - name: Swordsman_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 42
+        y: 43
+        width: 28
+        height: 19
+      spriteId: 0bb5b564611b7134aae4162363e726f2
+    - name: Swordsman_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 40
+        y: 38
+        width: 49
+        height: 22
+      spriteId: dd645ed1c1a2a1949a91ffbbe6ae1769
+    - name: Swordsman_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 40
+        y: 39
+        width: 49
+        height: 21
+      spriteId: 9d28031b95f28174599d49178662a53b
+    - name: Swordsman_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 40
+        y: 38
+        width: 50
+        height: 22
+      spriteId: 198def84fae18024582d55d4f4c2ce7f
+    - name: Swordsman_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 40
+        y: 40
+        width: 18
+        height: 20
+      spriteId: 357e97e6d7ac25547a625337f9e8234d
+    - name: Swordsman_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 41
+        y: 43
+        width: 21
+        height: 18
+      spriteId: dd75f2450049f9a47829afaa81c321ae
+    - name: Swordsman_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 41
+        y: 43
+        width: 21
+        height: 18
+      spriteId: ae5a5d11e27cc434a8ee519c3cb10640
+    - name: Swordsman_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 42
+        y: 38
+        width: 53
+        height: 28
+      spriteId: 810a2e3ecdeed1d44ad4cc8e7ac047b5
+    - name: Swordsman_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 42
+        y: 41
+        width: 48
+        height: 20
+      spriteId: e0d7d55b777f7474db5eb463e33dbaf6
+    - name: Swordsman_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 42
+        y: 43
+        width: 30
+        height: 17
+      spriteId: dd6c0fda4362f6c47b29baff3f11e816
+    - name: Swordsman_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 42
+        y: 40
+        width: 24
+        height: 21
+      spriteId: 355cc03fc8f487044bbc6b613ba6477d
+    - name: Swordsman_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 41
+        y: 43
+        width: 21
+        height: 18
+      spriteId: d89691c4788da9046a213554028c1f6f
+    - name: Swordsman_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 41
+        y: 43
+        width: 21
+        height: 18
+      spriteId: a5375240c7008c54fbb32542e11143a5
+    - name: Swordsman_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 41
+        y: 43
+        width: 21
+        height: 18
+      spriteId: d8215ad329628ea4181d7c0076b1c971
+    - name: Swordsman_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 41
+        y: 43
+        width: 21
+        height: 18
+      spriteId: 5f61bfa0408aaf945aaef55794bdb4a9
+    - name: Swordsman_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 42
+        y: 43
+        width: 37
+        height: 17
+      spriteId: e443b02a36516f743908b07e1537601a
+    - name: Swordsman_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 43
+        y: 43
+        width: 36
+        height: 17
+      spriteId: d4c1915d8fe20464dab19d0988628f1b
+    - name: Swordsman_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 42
+        y: 42
+        width: 44
+        height: 18
+      spriteId: eead300b90fdede49b9b434408639fa2
+    - name: Swordsman_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 43
+        y: 43
+        width: 47
+        height: 17
+      spriteId: 4ef114f76cb74fa46b16672773e88564
+    - name: Swordsman_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 42
+        y: 43
+        width: 42
+        height: 17
+      spriteId: d86aed815466f6d49bdc5ba387547946
+    - name: Swordsman_Frame_46
+      frameIndex: 46
+      cellRect:
+        x: 43
+        y: 43
+        width: 44
+        height: 17
+      spriteId: c871d4734d1546643865bd20990b7569
+    - name: Swordsman_Frame_47
+      frameIndex: 47
+      cellRect:
+        x: 42
+        y: 43
+        width: 40
+        height: 17
+      spriteId: 857557df1d58ebc4fb6e1a0dcf69f8ee
+    - name: Swordsman_Frame_48
+      frameIndex: 48
+      cellRect:
+        x: 41
+        y: 43
+        width: 26
+        height: 18
+      spriteId: da96bb5d995210c4a85470951308ab69
+    - name: Swordsman_Frame_49
+      frameIndex: 49
+      cellRect:
+        x: 41
+        y: 43
+        width: 26
+        height: 18
+      spriteId: 7c9c61ca50fe13d46812633184730c7b
+    - name: Swordsman_Frame_50
+      frameIndex: 50
+      cellRect:
+        x: 41
+        y: 43
+        width: 26
+        height: 18
+      spriteId: c8f526f04b4351646b4df01c918097ca
+    - name: Swordsman_Frame_51
+      frameIndex: 51
+      cellRect:
+        x: 41
+        y: 43
+        width: 26
+        height: 18
+      spriteId: 83af195780c58f540af123be59ed65c3
+    - name: Swordsman_Frame_52
+      frameIndex: 52
+      cellRect:
+        x: 41
+        y: 43
+        width: 26
+        height: 18
+      spriteId: 592ebcfda7a69ee4eb86e5cb4fbd259f
+    - name: Swordsman_Frame_53
+      frameIndex: 53
+      cellRect:
+        x: 42
+        y: 40
+        width: 24
+        height: 21
+      spriteId: 44327a9fa99915548b0419ea33d21618
+    - name: Swordsman_Frame_54
+      frameIndex: 54
+      cellRect:
+        x: 42
+        y: 43
+        width: 27
+        height: 16
+      spriteId: daefbe13fadb9ae41baeb1c4bf96d386
+    - name: Swordsman_Frame_55
+      frameIndex: 55
+      cellRect:
+        x: 46
+        y: 43
+        width: 27
+        height: 14
+      spriteId: b5e528758fa7dc34a9f16fe17015f4c6
+    - name: Swordsman_Frame_56
+      frameIndex: 56
+      cellRect:
+        x: 49
+        y: 43
+        width: 30
+        height: 10
+      spriteId: 998f88585d7d5cd4f84e17306460426d
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 100, y: 100}
