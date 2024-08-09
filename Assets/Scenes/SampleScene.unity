@@ -201,9 +201,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 454097009}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d6384f25ecd161f408402bf31a4a27e9, type: 3}
+  m_Script: {fileID: 11500000, guid: 9b6ff6406d0ca26458a95e817c7ffc14, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _myCollider: {fileID: 0}
   boxCollider: {fileID: 0}
 --- !u!61 &454097012
 BoxCollider2D:
@@ -813,7 +814,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 791459437}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: -4, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -3426,6 +3427,7 @@ GameObject:
   - component: {fileID: 1967378335}
   - component: {fileID: 1967378334}
   - component: {fileID: 1967378337}
+  - component: {fileID: 1967378338}
   m_Layer: 7
   m_Name: Enemy
   m_TagString: Untagged
@@ -3513,7 +3515,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1967378333}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.96, y: 0, z: 0}
+  m_LocalPosition: {x: -4.04, y: -4, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -3537,4 +3539,17 @@ MonoBehaviour:
   <AnimationData>k__BackingField:
     groundParameterName: '@Ground'
     idleParameterName: Idle
+    walkParameterName: Walk
     AttackParameterName: '@Attack'
+--- !u!114 &1967378338
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1967378333}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85ce5258ebc6bab42a7a62f16faca792, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

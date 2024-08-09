@@ -9,27 +9,23 @@ public class GameManager : MonoBehaviour
     {
         get
         {
-            return GetInstance();
+            if (_instance == null)
+            {
+                var obj = FindObjectOfType<GameManager>();
+
+                if (obj != null)
+                {
+                    _instance = obj;
+                }
+                else
+                {
+                    var newObj = new GameObject().AddComponent<GameManager>();
+                    _instance = newObj;
+                }
+            }
+            return _instance;
         }
     }
 
-    public static GameManager GetInstance()
-    {
-        _instance = FindObjectOfType<GameManager>();
-
-        if (_instance == null)
-        {
-            var go = new GameObject("GameManager");
-            _instance = go.AddComponent<GameManager>();
-        }
-
-        return _instance;
-    }
-
-    public Player player { get; set; }
-
-    private void Start()
-    {
-        //GameObject gameObject = Resources.Load("Player") as GameObject;
-    }
+    public Player Player { get; set; }
 }

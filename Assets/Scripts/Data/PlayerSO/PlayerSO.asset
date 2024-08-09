@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: PlayerSO
   m_EditorClassIdentifier: 
   <AttackDamage>k__BackingField: 10
-  <TransitionTime>k__BackingField: 0.5
+  <TransitionTime>k__BackingField: 0.2
   <Force>k__BackingField: 1

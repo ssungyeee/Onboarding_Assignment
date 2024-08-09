@@ -10,15 +10,15 @@ public class Player : MonoBehaviour
 
     [field: Header("Animations")]
     public PlayerAnimationData AnimationData { get; private set; } = new PlayerAnimationData();
-    public Rigidbody Rigidbody { get; private set; }
+    public Rigidbody2D Rigidbody2D { get; private set; }
     public Animator Animator { get; private set; }
-    public AttackCollider AttackCollider { get; private set; }
+    public Weapon AttackCollider { get; private set; }
     public PlayerStateMachine StateMachine { get; private set; }
     public PlayerInput Input { get; private set; }
 
     private void Awake()
     {
-        GameManager.Instance.player = this;
+        GameManager.Instance.Player = this;
 
         AnimationData.Initialize();
 
@@ -29,10 +29,10 @@ public class Player : MonoBehaviour
 
     private void SetComponents()
     {
-        Rigidbody = GetComponent<Rigidbody>();
+        Rigidbody2D = GetComponent<Rigidbody2D>();
         Animator = GetComponentInChildren<Animator>();
         Input = GetComponent<PlayerInput>();
-        AttackCollider = GetComponentInChildren<AttackCollider>();
+        AttackCollider = GetComponentInChildren<Weapon>();
     }
 
     private void Start()
@@ -51,11 +51,11 @@ public class Player : MonoBehaviour
         StateMachine.PhysicsUpdate();
     }
 
-    public void Attack(int damage)
-    {
-        // damage 만큼 EnemyData에 적용
-        Debug.Log("atk");
-    }
+    //public void Attack(int damage)
+    //{
+    //    // damage 만큼 EnemyData에 적용
+    //    Debug.Log("atk");
+    //}
 
     private void OnDrawGizmos()
     {
