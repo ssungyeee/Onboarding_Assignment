@@ -1,0 +1,34 @@
+{
+    "name": "PlayerInputSystem",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "9edefbf1-af24-404b-b181-716358dc2952",
+            "actions": [
+                {
+                    "name": "Attack",
+                    "type": "Value",
+                    "id": "91e321bf-077f-4f66-94fb-7fe62971b070",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "1e8d2009-a62e-4072-a637-22de1150f922",
+                    "path": "<Keyboard>/x",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Attack",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
