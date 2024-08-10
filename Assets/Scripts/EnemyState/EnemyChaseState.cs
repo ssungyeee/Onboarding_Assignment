@@ -12,11 +12,15 @@ public class EnemyChaseState : EnemyBaseState
     }
 
     private Player _player = GameManager.Instance.Player;
+    private SpriteRenderer spriteRenderer;
+    private int _stopDistance;
 
     public override void Enter()
     {
         base.Enter();
         StartAnimation(_enemyStateMachine.Enemy.AnimationData.WalkParameterHash);
+        spriteRenderer = _enemyStateMachine.Enemy.GetComponentInChildren<SpriteRenderer>();
+        _stopDistance = 1;
     }
 
     public override void Exit()
@@ -28,6 +32,8 @@ public class EnemyChaseState : EnemyBaseState
     public override void Update()
     {
         base.Update();
+
+
     }
 
     public override void PhysicsUpdate()
@@ -38,9 +44,22 @@ public class EnemyChaseState : EnemyBaseState
 
     private void MoveToTarget(Player player)
     {
-        //float distanceToTarget = Vector3.Distance(_enemyStateMachine.Enemy.transform.position, player.transform.position);
-        Vector2 DirectionToTarget = (player.transform.position - _enemyStateMachine.Enemy.transform.position).normalized;
+        if (_enemyStateMachine.Enemy.transform.position.x > _player.transform.position.x)
+        {
+            spriteRenderer.flipX = true;
+        }
+        else
+        {
+            spriteRenderer.flipX = false;
 
-        _enemyStateMachine.Enemy.Rigidbody2D.velocity = DirectionToTarget * _enemyStateMachine.Enemy.Data.Speed;
+        }
+
+        if (Vector2.Distance(_enemyStateMachine.Enemy.transform.position, player.transform.position) > _stopDistance)
+        {
+            _enemyStateMachine.Enemy.transform.position = Vector2.MoveTowards(_enemyStateMachine.Enemy.transform.position, player.transform.position,
+                _enemyStateMachine.Enemy.Data.Speed * Time.deltaTime);
+        }
     }
+
+
 }

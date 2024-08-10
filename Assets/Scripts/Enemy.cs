@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.AI;
 
 public class Enemy : MonoBehaviour
 {
@@ -14,6 +16,7 @@ public class Enemy : MonoBehaviour
     public Animator Animator { get; private set; }
     public HealthSystem HealthSystem { get; private set; }
     public EnemyStateMachine StateMachine { get; private set; }
+    public bool IsAttacking { get; set; }
 
     private void Awake()
     {
@@ -51,12 +54,12 @@ public class Enemy : MonoBehaviour
     private void Death()
     {
         Debug.Log("Death");
+        Destroy(gameObject);
     }
 
     private void OnDrawGizmos()
     {
-        Vector3 position = new Vector3(-0.25f, 0.5f, 0);
         Gizmos.color = Color.red;
-        Gizmos.DrawWireSphere(this.transform.position + position, 10f);
+        Gizmos.DrawWireSphere(this.transform.position, 10f);
     }
 }

@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class HealthSystem : MonoBehaviour
 {
@@ -9,6 +10,7 @@ public class HealthSystem : MonoBehaviour
 
     private int _maxHealth;
     private int _health;
+    private Slider _healthBar;
 
     public event Action OnDie;
     public bool IsDead => _health == 0;
@@ -16,12 +18,15 @@ public class HealthSystem : MonoBehaviour
     private void Awake()
     {
         _enemy = GetComponent<Enemy>();
+        _healthBar = GetComponentInChildren<Slider>();
     }
 
     private void Start()
     {
         _maxHealth = _enemy.Data.Health;
         _health = _maxHealth;
+        _healthBar.maxValue = _health;
+        _healthBar.value = _health;
     }
 
     public void TakeDamage(int damage)
@@ -29,10 +34,12 @@ public class HealthSystem : MonoBehaviour
         if (_health == 0) return;
 
         _health = Mathf.Max(_health - damage, 0);
+        _healthBar.value = _health;
 
         if (_health == 0)
         {
             OnDie?.Invoke();
+            GameManager.Instance.EnemySpwaning();
         }
 
         Debug.Log(_health);

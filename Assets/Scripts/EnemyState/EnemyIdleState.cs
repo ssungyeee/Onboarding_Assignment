@@ -42,8 +42,7 @@ public class EnemyIdleState : EnemyBaseState
 
     private bool FindTarget(Player player)
     {
-        Vector3 position = new Vector3(-0.25f, 0.5f, 0);
-        bool find = Physics2D.OverlapCircle(_enemyStateMachine.Enemy.transform.position + position, 10f, 1 << 6);
+        bool find = Physics2D.OverlapCircle(_enemyStateMachine.Enemy.transform.position, 10f, 1 << 6);
 
         return find;
     }

@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: SkeletonSO
   m_EditorClassIdentifier: 
   <Name>k__BackingField: Skeleton
-  <Grade>k__BackingField: "\uC77C\uBC18"
+  <Grade>k__BackingField: Normal
   <Speed>k__BackingField: 0.5
   <Health>k__BackingField: 50
