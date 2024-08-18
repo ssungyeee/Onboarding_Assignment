@@ -29,11 +29,11 @@ public class GameManager : MonoBehaviour
 
     public enum EnemyGrade
     {
-        ÀÏ¹İ,
-        ·¹¾î,
-        ¸ÅÁ÷,
-        Àü¼³,
-        ¿µ¿õ
+        ì¼ë°˜,
+        ë ˆì–´,
+        ë§¤ì§,
+        ì „ì„¤,
+        ì˜ì›…
     }
 
     public Player Player { get; set; }
