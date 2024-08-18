@@ -7,7 +7,7 @@ using System;
 
 public class UIEnemyInfoPopup : MonoBehaviour
 {
-    // ÀÌº¥Æ® ¸¸µé¾î¼­ Á¤º¸ ¹Ş¾Æ¿À°í ÆË¾÷ÇÏ±â
+    // ì´ë²¤íŠ¸ ë§Œë“¤ì–´ì„œ ì •ë³´ ë°›ì•„ì˜¤ê³  íŒì—…í•˜ê¸°
     public Enemy _enemy;
     public UIEnemyInfo uIEnemyInfo;
 
